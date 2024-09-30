@@ -1,0 +1,3 @@
+[submodule "subproject_b"]
+	path = subproject_b
+	url = https://github.com/fffr/subproject_b.git
